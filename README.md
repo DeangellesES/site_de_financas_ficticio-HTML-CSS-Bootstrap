@@ -1,7 +1,7 @@
 <h1>Projeto: Site de Controle de Finanças</h1>
 
 <h2>📌 Sobre o Projeto</h2>
-<p>Site Front-End ficticio de controle de finanças, desenvolvido durante um curso Bootstrap</p>
+<p>Site Front-End ficticio de controle de finanças, desenvolvido durante um curso de Bootstrap.</p>
 
 <h3>💻<a href="https://deangelleses.github.io/site_de_financas_ficticio-HTML-CSS-Bootstrap/" target="_blank"> Acessar Site do Projeto Aqui</a></h3>
 
